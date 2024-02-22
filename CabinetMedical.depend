@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1702662760 source:c:\users\pc\desktop\langage c\cabinetmedical\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+
